@@ -31,7 +31,7 @@ body {
 
   For more colors, see: http://www.html-color-names.com/color-chart.php
   */
-  background-color: #000000; /* this is the background color of the page */
+  background-color: #F26522; /* this is the background color of the page */
   color: #DA4930; /* this is the default color of text on the page */
   font-family: "Days One", sans-serif; /* this is the default font on the page */
   text-align: center; /* this centers text on the page */
@@ -63,12 +63,12 @@ body {
   but you can also use an image that is hosted anywhere on the internet!
 
   Try changing the rule below to:
-  background-image: url(http://www.google.com/imgres?imgurl=&imgrefurl=http%3A%2F%2Fwww.layoutsparks.com%2Fpictures%2Fmusic-63&h=0&w=0&sz=1&tbnid=kxHXLoUF0_0TxM&tbnh=218&tbnw=231&zoom=1&docid=qPWFunxpVfAF1M&ei=_T8NUsyhL6n0iwKg3YHICQ&ved=0CAEQsCU);
+  background-image: url(http://www.raritananimalhospital.com/images/cat.jpg);
 
   For the best results, try finding images that are about the same size as the images
   that are currently being used (they're all 120x189 pixels).
   */
-  background-image: url(./images/front.png); /* this is the image that appears on the front of all the cards */
+  background-image: url(./images/card.png); /* this is the image that appears on the front of all the cards */
   background-position: 0 0;
   border-radius: 4px;
   z-index: 10;
