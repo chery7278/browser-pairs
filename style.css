@@ -139,7 +139,7 @@ body {
 }
 
 #game.open #gameIntro {
-  background-image: url(./images/start.png); /* this is the image that appears when you start the game */
+  background-image: url(http://netstorage.metrolyrics.com/artists/hero/taylor-swift-51f94929-hero.jpg); /* this is the image that appears when you start the game */
   background-position: center center;
   background-repeat: no-repeat;
   opacity: 1;
