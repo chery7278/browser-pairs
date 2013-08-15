@@ -68,7 +68,7 @@ body {
   For the best results, try finding images that are about the same size as the images
   that are currently being used (they're all 120x189 pixels).
   */
-  background-image: url(http://static.comicvine.com/uploads/square_avatar/6/60392/1806013-fame_taylor_swift.jpg); /* this is the image that appears on the front of all the cards */
+  background-image: url("http://static.comicvine.com/uploads/square_avatar/6/60392/1806013-fame_taylor_swift.jpg"); /* this is the image that appears on the front of all the cards */
   background-size: contain;
   background-position: 0 0;
   border-radius: 4px;
@@ -76,7 +76,7 @@ body {
 }
 
 .ie {
-  background-image: url(http://www.celebscafe.com/wp-content/uploads/2013/04/Taylor-taylor-swift-80x80.jpg);
+  background-image: url("http://www.celebscafe.com/wp-content/uploads/2013/04/Taylor-taylor-swift-80x80.jpg");
   background-repeat: no-repeat;
   background-size: contain;
 }
