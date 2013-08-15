@@ -68,7 +68,7 @@ body {
   For the best results, try finding images that are about the same size as the images
   that are currently being used (they're all 120x189 pixels).
   */
-  background-image: url(http://www.raritananimalhospital.com/images/cat.jpg); /* this is the image that appears on the front of all the cards */
+  background-image: url(http://www.google.com/imgres?imgurl=http://asizcreatives.files.wordpress.com/2013/04/music-notes-black-full-scale.jpg&imgrefurl=http://asizcreatives.wordpress.com/2013/04/02/whered-ya-go/&h=1023&w=1500&sz=141&tbnid=xniARvof-IhFqM:&tbnh=86&tbnw=126&zoom=1&usg=__IMb60OaPUOo46VP3sQ93CLXjuTI=&docid=N2vCObgue-s3lM&sa=X&ei=aT0NUqL1G6_AiwL2jIGoAw&sqi=2&ved=0CEoQ9QEwAw&dur=48#imgdii=xniARvof-IhFqM%3A%3BSKohWbbxq9B10M%3BxniARvof-IhFqM%3A); /* this is the image that appears on the front of all the cards */
   background-position: 0 0;
   border-radius: 4px;
   z-index: 10;
